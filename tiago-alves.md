@@ -1,3 +1,5 @@
-** Creating file MD **
+### Introduction
 
-# Testing#
+**Name: ** Tiago Alves
+
+**Favorite Color: ** Green
